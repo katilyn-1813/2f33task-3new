@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Jqvdsov6rq0k9+TAX,zL">y</variable></variables><block type="device_button_event" id="[GGRh],d4lN,Dg;4E:({" x="391" y="-100"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="variables_set" id="auf;9Vn|aoA`[[[+o|1w"><field name="VAR" id="Jqvdsov6rq0k9+TAX,zL">y</field><value name="VALUE"><shadow type="math_number" id="=[)V5o|;aFYny96*|(4#"><field name="NUM">9</field></shadow></value><next><block type="controls_repeat_ext" id="!0nY2SnF~757z$n!H2A9"><value name="TIMES"><shadow type="math_whole_number" id="j[$].2U%!}+/CKj(u@aC"><field name="NUM">10</field></shadow></value><statement name="DO"><block type="device_show_number" id="99bJ|R3X[85KL=IO~DW:"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="variables_get" id="2FI=0co4nEuos]jg*1sT"><field name="VAR" id="Jqvdsov6rq0k9+TAX,zL">y</field></block></value><next><block type="variables_change" id="whS_XoAov:mpOHEfc@,f"><field name="VAR" id="Jqvdsov6rq0k9+TAX,zL">y</field><value name="VALUE"><shadow type="math_number" id=":y:g.K}I0g?L]4$|t(Pr"><field name="NUM">-1</field></shadow></value></block></next></block></statement><next><block type="device_show_leds" id="O7)2h4DT^lmP;nS7:)PG"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="nh[uv!XUw//-V*e|%(#3"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="nN^Dd7=F./o)PQA$v][3"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="Ib:cvmeaWq/@zX;e[`!y"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="aIAyNet(Wj@{(;MRxQ@v"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="/(S59B7:x:*AS2Pf*0oX"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_print_message" id="[q+k9[i;w0JsR+hAzsfv" disabled="true" x="0" y="0"><value name="text"><shadow type="text" id="octa?Fb|UvxTue$]!WLo" disabled="true"><field name="TEXT">楊芷芯</field></shadow></value></block></xml>
